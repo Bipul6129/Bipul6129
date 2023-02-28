@@ -1,16 +1,17 @@
-### Hi there 👋
+Hey it's me Bipul Tamang alway on the run to learn something new and something that interests me.
 
-<!--
-**Bipul6129/Bipul6129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Familiar Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - C
+ - C#
+ - Php and Javascript
+ - Python
+ - Java
+
+## Familiar Frameworks,Engine and Plugins
+
+ - Django and Rest API
+ - React
+ - Flutter
+ - Unity Engine and Blender
