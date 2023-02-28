@@ -24,4 +24,4 @@ Hey it's me Bipul Tamang alway on the run to learn something new and something t
  - [GiftcardStore](https://github.com/Bipul6129/MIS-project-giftcardstore-django-) - Online paypal store to purchase giftcards. Using django
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipul6129&hide_progress=true)](https://github.com/Bipul6129/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipul6129&hide_progress=false)](https://github.com/Bipul6129/github-readme-stats)
