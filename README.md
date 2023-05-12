@@ -1,4 +1,4 @@
-Hey it's me Bipul Tamang alway on the run to learn something new and something that interests me.
+Hey it's me Bipul Tamang alway on the run to learn something new and something that interests me
 
 
 ## Familiar Languages
