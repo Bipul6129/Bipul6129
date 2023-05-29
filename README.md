@@ -13,7 +13,7 @@ Hey it's me Bipul Tamang alway on the run to learn something new and something t
 
  - Django and Rest API
  - React
- - Flutter
+ - AndroidStudio
  - Unity Engine and Blender
  - JDBC-Servlets
 
